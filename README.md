@@ -122,6 +122,10 @@ The extension uses `wasm-unsafe-eval` in its CSP to allow WebAssembly compilatio
 
 Based on the [WebGPU background removal demo](https://github.com/huggingface/transformers.js-examples/tree/main/remove-background-webgpu) by [@xenova](https://github.com/xenova)
 
+## Reference
+
+Ported from [addyosmani/bg-remove: Free image background removal - private, client-side and powered by Transformers.js](https://github.com/addyosmani/bg-remove )
+
 ## License
 
 MIT License
